@@ -1,3 +1,5 @@
+/* Testing Push, status and diff (with git commands) */
+
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
